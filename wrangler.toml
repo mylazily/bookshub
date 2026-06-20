@@ -1,0 +1,7 @@
+name = "bookshub"
+compatibility_date = "2026-06-20"
+pages_build_output_dir = "dist/client"
+
+[vars]
+AGNES_BASE_URL = "https://apihub.agnes-ai.com/v1"
+AGNES_API_KEY = "sk-Pb4jX0ewvqltnvIIfAy9aXCRO9GkSRXngYRzJ3gwQv7U7DlQ"
